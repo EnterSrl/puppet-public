@@ -397,3 +397,9 @@
 [submodule "ceph"]
 	path = ceph
 	url = https://github.com/example42/puppet-ceph
+[submodule "hiera-file"]
+	path = hiera-file
+	url = https://github.com/adrienthebo/hiera-file
+[submodule "hiera-eyaml"]
+	path = hiera-eyaml
+	url = https://github.com/TomPoulton/hiera-eyaml
