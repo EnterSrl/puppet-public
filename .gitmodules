@@ -403,3 +403,6 @@
 [submodule "hiera-eyaml"]
 	path = hiera-eyaml
 	url = https://github.com/TomPoulton/hiera-eyaml
+[submodule "pacemaker"]
+	path = pacemaker
+	url = https://github.com/example42/puppet-pacemaker
